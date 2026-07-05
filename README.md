@@ -21,5 +21,5 @@ Criar um gerador de senhas com interface gráfica utilizando Python e Tkinter.
 - Criação do repositório no GitHub.
 - Criação do arquivo `gerador-de-senhas.py`.
 - Desenvolvimento da lógica inicial do gerador de senhas.
-- Importação da biblioteca `random`.
+- Importação da biblioteca `secrets`.
 - Código funcional em terminal (sem interface gráfica).
